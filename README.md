@@ -58,7 +58,11 @@ In the `main()` method, the following operations are tested:
 
 ## ScreenShot
 
-
+-**Create**: ![Create](Screens/Create.png)
+-**All**: ![All](Screens/all.png)
+-**ID**: ![ID](Screens/id.png)
+-**Update**: ![Update](Screens/update.png)
+-**Delete**: ![Delete](Screens/delete.png)
 
 
 
