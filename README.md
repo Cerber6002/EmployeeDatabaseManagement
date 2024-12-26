@@ -54,20 +54,11 @@ In the `main()` method, the following operations are tested:
 4. **Update** an employee’s details and save them using `updateEmployee()`.
 5. **Delete** an employee from the database using `deleteEmployee()`.
 
-## Instructions to Run the Program
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/GairatbekovKasymbek/assigment-9.git
-
 ---
 
 ## ScreenShot
 
-![image](https://github.com/user-attachments/assets/cd281238-3b01-4939-a613-77bbaefbc628)
-![image](https://github.com/user-attachments/assets/3ad9aae1-dc4b-469f-b013-48a2a88d12a7)
-![image](https://github.com/user-attachments/assets/7a3c84e0-5943-40fb-a3bd-02c8109cd29c)
-![image](https://github.com/user-attachments/assets/84c3675b-7df6-43bf-9184-be2ddbb4c911)
+
 
 
 
